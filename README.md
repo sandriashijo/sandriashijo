@@ -5,7 +5,7 @@
 -🎯**CAREER GAOL-** seeking an **AI Application Trainee / Prompt engineer Trainee** position under **Earn-While-You-learn** to solve real-world industrial problems while continuously upgrading my tech stack for future MNC placement  
 ## 🛠️Tech Stack & Skills  
 -🎈**LANGUAGES**- Python(Core,OOPs,Functions)  
--🔧**TOOLS**- Git,Github,VS Code  
+-🔧**TOOLS**- VS Code  
 -🚩**NEXT ON MY ROADMAP**
   - 🔄 **Currently Mastering:** Data Structures in Python & Advanced OOPs Concepts
   - 📈 **Upcoming Targets (Data & Web):** NumPy, Pandas, and Basic REST APIs (FastAPI)
