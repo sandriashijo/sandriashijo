@@ -2,7 +2,7 @@
 ## About Me
 -🎓**EDUCATION-** B.Tech Student In Artificial Intelligence & Machine Learning (Fresher)  
 -🐍**CORE FOCUS-** Python Programming & Applied AI System  
--🎯**CAREER GAOL-** Learning to  solve real-world industrial problems while continuously upgrading my tech stack for future MNC placement  
+-🎯**CAREER GOAL-** Learning to  solve real-world industrial problems while continuously upgrading my tech stack for future MNC placement  
 ## 🛠️Tech Stack & Skills  
 -🎈**LANGUAGES**- Python(Core,OOPs,Functions)  
 -🔧**TOOLS**- VS Code  
